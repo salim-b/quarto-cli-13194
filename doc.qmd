@@ -1,0 +1,9 @@
+---
+bibliography: "bib.json"
+format: pdf
+---
+
+# H1
+
+In the field of research on direct democracy worldwide, the *Referendum Database* has been recommended as a comprehensive source by authors such as
+@Schiller.2003 \[p. 39\], @Mittendorf.2007 [p. 207], @Schiller.2016 \[p. 443\] and @Cortes.2019 [p. 674].
